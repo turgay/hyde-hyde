@@ -47,7 +47,8 @@
 }
 
 .site__description {
-  font-size: 1.285rem;
+  //font-size: 1.285rem;
+  font-size: $site__desc-font-size;
   font-weight: 300;
 }
 
@@ -65,7 +66,8 @@
 
 .img--headshot {
 	height: 115px;
-	width: 115px;
+	//width: 115px;
+	width: 90px;
 }
 
 .img--caption {
